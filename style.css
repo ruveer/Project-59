@@ -93,3 +93,6 @@ h3{
 #stats{
     padding-top: 30px;
 }
+html{
+    scroll-behavior: smooth;
+}
